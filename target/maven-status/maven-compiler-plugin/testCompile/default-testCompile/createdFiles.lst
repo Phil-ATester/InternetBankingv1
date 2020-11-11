@@ -1,0 +1,13 @@
+com/InternetBanking/utilities/XLUtils.class
+com/InternetBanking/pageObject/NewCustomerPage.class
+com/InternetBanking/pageObject/EditCustomerPage.class
+com/InternetBanking/testCases/TC_LoginTest_001.class
+com/InternetBanking/testCases/TC_DeleteCustomerTest_005.class
+com/InternetBanking/testCases/TC_LoginTestDDT_002.class
+com/InternetBanking/testCases/TC_AddCustomer_003.class
+com/InternetBanking/testCases/TC_EditCustomerDetailsTest_004.class
+com/InternetBanking/pageObject/LoginPage.class
+com/InternetBanking/utilities/Reporting.class
+com/InternetBanking/pageObject/DeleteCustomerPage.class
+com/InternetBanking/utilities/ReadConfig.class
+com/InternetBanking/testCases/BaseClass.class

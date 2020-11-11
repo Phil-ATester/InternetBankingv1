@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-10T15:11:13Z" name="InternetBankingV1" finished-at="2020-11-10T15:11:26Z" duration-ms="12316">
+    <groups>
+    </groups>
+    <test started-at="2020-11-10T15:11:13Z" name="BankingApp Test" finished-at="2020-11-10T15:11:26Z" duration-ms="12316">
+      <class name="com.InternetBanking.testCases.TC_AddCustomer_003">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.InternetBanking.testCases.TC_AddCustomer_003@51c8530f]" started-at="2020-11-10T15:11:19Z" name="setUp" finished-at="2020-11-10T15:11:21Z" duration-ms="2298" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addCustomerTest()[pri:0, instance:com.InternetBanking.testCases.TC_AddCustomer_003@51c8530f]" started-at="2020-11-10T15:11:21Z" name="addCustomerTest" finished-at="2020-11-10T15:11:26Z" duration-ms="4620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomerTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.InternetBanking.testCases.TC_AddCustomer_003@51c8530f]" started-at="2020-11-10T15:11:26Z" name="teardown" finished-at="2020-11-10T15:11:26Z" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.InternetBanking.testCases.TC_AddCustomer_003 -->
+      <class name="com.InternetBanking.testCases.TC_LoginTest_001">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.InternetBanking.testCases.TC_LoginTest_001@13eb8acf]" started-at="2020-11-10T15:11:14Z" name="setUp" finished-at="2020-11-10T15:11:17Z" duration-ms="3151" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:0, instance:com.InternetBanking.testCases.TC_LoginTest_001@13eb8acf]" started-at="2020-11-10T15:11:17Z" name="loginTest" finished-at="2020-11-10T15:11:19Z" duration-ms="1794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.InternetBanking.testCases.TC_LoginTest_001@13eb8acf]" started-at="2020-11-10T15:11:19Z" name="teardown" finished-at="2020-11-10T15:11:19Z" duration-ms="99" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.InternetBanking.testCases.TC_LoginTest_001 -->
+    </test> <!-- BankingApp Test -->
+  </suite> <!-- InternetBankingV1 -->
+</testng-results>

@@ -1,0 +1,455 @@
+2020-11-08 15:39:09,604 - InternetBanking -INFO - URL is opened
+2020-11-08 15:39:10,382 - InternetBanking -INFO - Enter Username
+2020-11-08 15:39:10,512 - InternetBanking -INFO - Enter Password
+2020-11-08 15:39:11,150 - InternetBanking -INFO - Clicked Login Button
+2020-11-08 15:39:11,160 - InternetBanking -INFO - Login Test Passed
+2020-11-08 16:42:25,003 - InternetBanking -INFO - LoginTest_001
+2020-11-08 16:44:01,403 - InternetBanking -INFO - LoginTest_001
+2020-11-08 16:47:10,825 - InternetBanking -INFO - LoginTest_001
+2020-11-08 16:49:38,935 - InternetBanking -INFO - LoginTest_001
+2020-11-08 16:49:40,046 - InternetBanking -INFO - URL is opened
+2020-11-08 16:49:40,306 - InternetBanking -INFO - Enter Username
+2020-11-08 16:49:40,985 - InternetBanking -INFO - Enter Password
+2020-11-08 16:49:41,785 - InternetBanking -INFO - Clicked Login Button
+2020-11-08 16:49:41,794 - InternetBanking -INFO - Login Test Passed
+2020-11-08 16:57:26,307 - InternetBanking -INFO - LoginTest_001
+2020-11-08 16:57:27,518 - InternetBanking -INFO - URL is opened
+2020-11-08 16:57:28,348 - InternetBanking -INFO - Enter Username
+2020-11-08 16:57:28,454 - InternetBanking -INFO - Enter Password
+2020-11-08 16:57:29,222 - InternetBanking -INFO - Clicked Login Button
+2020-11-08 16:57:29,753 - InternetBanking -INFO - Login Test Passed
+2020-11-08 17:50:33,912 - InternetBanking -INFO - LoginTest_001
+2020-11-08 17:50:33,937 - InternetBanking -INFO - URL is opened
+2020-11-08 17:50:34,740 - InternetBanking -INFO - Enter Username
+2020-11-08 17:50:34,838 - InternetBanking -INFO - Enter Password
+2020-11-08 17:50:36,003 - InternetBanking -INFO - Clicked Login Button
+2020-11-08 17:50:36,018 - InternetBanking -INFO - Login Test Passed
+2020-11-08 18:26:20,839 - InternetBanking -INFO - LoginTest_001
+2020-11-08 18:26:20,846 - InternetBanking -INFO - URL is opened
+2020-11-08 18:26:21,473 - InternetBanking -INFO - Enter Username
+2020-11-08 18:26:21,646 - InternetBanking -INFO - Enter Password
+2020-11-08 18:26:22,052 - InternetBanking -INFO - Clicked Login Button
+2020-11-08 18:29:33,975 - InternetBanking -INFO - LoginTest_001
+2020-11-08 18:29:33,983 - InternetBanking -INFO - URL is opened
+2020-11-08 18:29:34,831 - InternetBanking -INFO - Enter Username
+2020-11-08 18:29:34,942 - InternetBanking -INFO - Enter Password
+2020-11-08 18:29:35,665 - InternetBanking -INFO - Clicked Login Button
+2020-11-08 18:29:35,676 - InternetBanking -INFO - Login Test Passed
+2020-11-08 18:30:21,913 - InternetBanking -INFO - LoginTest_001
+2020-11-08 18:30:21,921 - InternetBanking -INFO - URL is opened
+2020-11-08 18:30:22,784 - InternetBanking -INFO - Enter Username
+2020-11-08 18:30:22,906 - InternetBanking -INFO - Enter Password
+2020-11-08 18:30:23,698 - InternetBanking -INFO - Clicked Login Button
+2020-11-08 18:30:23,709 - InternetBanking -INFO - Login Test Passed
+2020-11-08 18:43:22,505 - InternetBanking -INFO - LoginTest_001
+2020-11-08 18:43:22,513 - InternetBanking -INFO - URL is opened
+2020-11-08 18:43:23,372 - InternetBanking -INFO - Enter Username
+2020-11-08 18:43:23,456 - InternetBanking -INFO - Enter Password
+2020-11-08 18:43:24,169 - InternetBanking -INFO - Clicked Login Button
+2020-11-08 18:43:24,182 - InternetBanking -INFO - Login Test Passed
+2020-11-08 18:45:59,787 - InternetBanking -INFO - LoginTest_001
+2020-11-08 18:45:59,794 - InternetBanking -INFO - URL is opened
+2020-11-08 18:46:00,409 - InternetBanking -INFO - Enter Username
+2020-11-08 18:46:00,500 - InternetBanking -INFO - Enter Password
+2020-11-08 18:46:00,948 - InternetBanking -INFO - Clicked Login Button
+2020-11-08 18:46:58,017 - InternetBanking -INFO - LoginTest_001
+2020-11-08 18:46:58,023 - InternetBanking -INFO - URL is opened
+2020-11-08 18:46:58,804 - InternetBanking -INFO - Enter Username
+2020-11-08 18:46:58,908 - InternetBanking -INFO - Enter Password
+2020-11-08 18:46:59,504 - InternetBanking -INFO - Clicked Login Button
+2020-11-08 18:46:59,511 - InternetBanking -INFO - Login Test Passed
+2020-11-08 18:57:39,576 - InternetBanking -INFO - LoginTest_001
+2020-11-08 18:57:39,582 - InternetBanking -INFO - URL is opened
+2020-11-08 18:57:40,438 - InternetBanking -INFO - Enter Username
+2020-11-08 18:57:40,540 - InternetBanking -INFO - Enter Password
+2020-11-08 18:57:41,125 - InternetBanking -INFO - Clicked Login Button
+2020-11-08 18:57:41,135 - InternetBanking -INFO - Login Test Passed
+2020-11-08 18:59:53,499 - InternetBanking -INFO - LoginTest_001
+2020-11-08 18:59:53,505 - InternetBanking -INFO - URL is opened
+2020-11-08 18:59:53,950 - InternetBanking -INFO - Enter Username
+2020-11-08 18:59:54,136 - InternetBanking -INFO - Enter Password
+2020-11-08 18:59:54,874 - InternetBanking -INFO - Clicked Login Button
+2020-11-08 18:59:54,884 - InternetBanking -INFO - Login Test Passed
+2020-11-08 19:14:41,188 - InternetBanking -INFO - LoginTest_001
+2020-11-08 19:14:41,194 - InternetBanking -INFO - URL is opened
+2020-11-08 19:14:42,083 - InternetBanking -INFO - Enter Username
+2020-11-08 19:14:42,184 - InternetBanking -INFO - Enter Password
+2020-11-08 19:14:42,853 - InternetBanking -INFO - Clicked Login Button
+2020-11-08 19:14:42,860 - InternetBanking -INFO - Login Test Passed
+2020-11-08 19:15:04,586 - InternetBanking -INFO - LoginTest_001
+2020-11-08 19:15:04,591 - InternetBanking -INFO - URL is opened
+2020-11-08 19:15:05,462 - InternetBanking -INFO - Enter Username
+2020-11-08 19:15:05,567 - InternetBanking -INFO - Enter Password
+2020-11-08 19:15:06,251 - InternetBanking -INFO - Clicked Login Button
+2020-11-08 19:17:06,571 - InternetBanking -INFO - LoginTest_001
+2020-11-08 19:17:06,583 - InternetBanking -INFO - URL is opened
+2020-11-08 19:17:07,116 - InternetBanking -INFO - Enter Username
+2020-11-08 19:17:07,557 - InternetBanking -INFO - Enter Password
+2020-11-08 19:17:08,230 - InternetBanking -INFO - Clicked Login Button
+2020-11-08 22:51:03,673 - InternetBanking -INFO - user name provided
+2020-11-08 22:51:03,804 - InternetBanking -INFO - password provided
+2020-11-08 22:51:05,434 - InternetBanking -INFO - user name provided
+2020-11-08 22:51:05,514 - InternetBanking -INFO - password provided
+2020-11-08 22:51:06,931 - InternetBanking -INFO - user name provided
+2020-11-08 22:51:07,009 - InternetBanking -INFO - password provided
+2020-11-08 22:51:07,874 - InternetBanking -INFO - user name provided
+2020-11-08 22:51:08,302 - InternetBanking -INFO - password provided
+2020-11-08 22:51:09,814 - InternetBanking -INFO - user name provided
+2020-11-08 22:51:09,890 - InternetBanking -INFO - password provided
+2020-11-09 11:34:30,867 - InternetBanking -INFO - addCustomerTest_001
+2020-11-09 11:34:30,875 - InternetBanking -INFO - URL is opened
+2020-11-09 11:34:31,673 - InternetBanking -INFO - Enter Username
+2020-11-09 11:34:31,776 - InternetBanking -INFO - Enter Password
+2020-11-09 11:34:32,384 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 11:38:02,925 - InternetBanking -INFO - addCustomerTest_001
+2020-11-09 11:38:02,929 - InternetBanking -INFO - URL is opened
+2020-11-09 11:38:03,649 - InternetBanking -INFO - Enter Username
+2020-11-09 11:38:03,740 - InternetBanking -INFO - Enter Password
+2020-11-09 11:38:04,474 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 11:38:05,208 - InternetBanking -INFO - Add Customer Details
+2020-11-09 11:39:15,731 - InternetBanking -INFO - addCustomerTest_001
+2020-11-09 11:39:15,736 - InternetBanking -INFO - URL is opened
+2020-11-09 11:39:16,499 - InternetBanking -INFO - Enter Username
+2020-11-09 11:39:16,590 - InternetBanking -INFO - Enter Password
+2020-11-09 11:39:17,202 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 11:39:17,631 - InternetBanking -INFO - Add Customer Details
+2020-11-09 11:41:07,053 - InternetBanking -INFO - addCustomerTest_001
+2020-11-09 11:41:07,059 - InternetBanking -INFO - URL is opened
+2020-11-09 11:41:07,719 - InternetBanking -INFO - Enter Username
+2020-11-09 11:41:07,803 - InternetBanking -INFO - Enter Password
+2020-11-09 11:41:08,501 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 11:41:08,936 - InternetBanking -INFO - Add Customer Details
+2020-11-09 11:41:10,296 - InternetBanking -INFO - Click Submit Button
+2020-11-09 11:42:31,274 - InternetBanking -INFO - addCustomerTest_001
+2020-11-09 11:42:31,280 - InternetBanking -INFO - URL is opened
+2020-11-09 11:42:32,117 - InternetBanking -INFO - Enter Username
+2020-11-09 11:42:32,219 - InternetBanking -INFO - Enter Password
+2020-11-09 11:42:32,995 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 11:42:33,406 - InternetBanking -INFO - Add Customer Details
+2020-11-09 11:42:34,787 - InternetBanking -INFO - Click Submit Button
+2020-11-09 11:42:34,886 - InternetBanking -INFO - Validating Page
+2020-11-09 11:45:55,772 - InternetBanking -INFO - addCustomerTest_001
+2020-11-09 11:45:55,776 - InternetBanking -INFO - URL is opened
+2020-11-09 11:45:56,546 - InternetBanking -INFO - Enter Username
+2020-11-09 11:45:56,623 - InternetBanking -INFO - Enter Password
+2020-11-09 11:45:57,458 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 11:45:58,213 - InternetBanking -INFO - Add Customer Details
+2020-11-09 11:46:02,570 - InternetBanking -INFO - Click Submit Button
+2020-11-09 11:46:05,643 - InternetBanking -INFO - Validating Page
+2020-11-09 11:46:05,689 - InternetBanking -WARN - Add New Customer Failed
+2020-11-09 11:47:46,424 - InternetBanking -INFO - addCustomerTest_001
+2020-11-09 11:47:46,428 - InternetBanking -INFO - URL is opened
+2020-11-09 11:47:47,029 - InternetBanking -INFO - Enter Username
+2020-11-09 11:47:47,321 - InternetBanking -INFO - Enter Password
+2020-11-09 11:47:48,077 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 11:47:48,855 - InternetBanking -INFO - Add Customer Details
+2020-11-09 11:47:53,197 - InternetBanking -INFO - Click Submit Button
+2020-11-09 11:47:57,026 - InternetBanking -INFO - Validating Page
+2020-11-09 11:47:57,092 - InternetBanking -WARN - Add New Customer Failed
+2020-11-09 11:50:25,497 - InternetBanking -INFO - addCustomerTest_001
+2020-11-09 11:50:25,501 - InternetBanking -INFO - URL is opened
+2020-11-09 11:50:26,202 - InternetBanking -INFO - Enter Username
+2020-11-09 11:50:26,313 - InternetBanking -INFO - Enter Password
+2020-11-09 11:50:27,028 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 11:50:27,472 - InternetBanking -INFO - Add Customer Details
+2020-11-09 11:50:31,882 - InternetBanking -INFO - Click Submit Button
+2020-11-09 11:50:32,660 - InternetBanking -INFO - Validating Page
+2020-11-09 11:50:32,682 - InternetBanking -INFO - Add New Customer Test Case Passed
+2020-11-09 11:51:39,593 - InternetBanking -INFO - addCustomerTest_001
+2020-11-09 11:51:39,598 - InternetBanking -INFO - URL is opened
+2020-11-09 11:51:40,483 - InternetBanking -INFO - Enter Username
+2020-11-09 11:51:40,568 - InternetBanking -INFO - Enter Password
+2020-11-09 11:51:41,245 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 11:51:42,022 - InternetBanking -INFO - Add Customer Details
+2020-11-09 11:51:46,550 - InternetBanking -INFO - Click Submit Button
+2020-11-09 11:51:47,240 - InternetBanking -INFO - Validating Page
+2020-11-09 11:51:47,276 - InternetBanking -INFO - Add New Customer Test Case Passed
+2020-11-09 11:54:37,308 - InternetBanking -INFO - addCustomerTest_001
+2020-11-09 11:54:37,313 - InternetBanking -INFO - URL is opened
+2020-11-09 11:54:37,539 - InternetBanking -INFO - Enter Username
+2020-11-09 11:54:38,228 - InternetBanking -INFO - Enter Password
+2020-11-09 11:54:39,345 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 11:54:39,723 - InternetBanking -INFO - Add Customer Details
+2020-11-09 11:54:41,073 - InternetBanking -INFO - Click Submit Button
+2020-11-09 11:54:41,764 - InternetBanking -INFO - Validating Page
+2020-11-09 11:54:41,793 - InternetBanking -INFO - Add New Customer Test Case Passed
+2020-11-09 12:00:58,041 - InternetBanking -INFO - LoginTest_001
+2020-11-09 12:00:58,048 - InternetBanking -INFO - URL is opened
+2020-11-09 12:00:58,752 - InternetBanking -INFO - Enter Username
+2020-11-09 12:00:58,859 - InternetBanking -INFO - Enter Password
+2020-11-09 12:00:59,699 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 12:01:04,565 - InternetBanking -INFO - user name provided
+2020-11-09 12:01:04,649 - InternetBanking -INFO - password provided
+2020-11-09 12:01:06,479 - InternetBanking -INFO - user name provided
+2020-11-09 12:01:06,575 - InternetBanking -INFO - password provided
+2020-11-09 12:01:08,089 - InternetBanking -INFO - user name provided
+2020-11-09 12:01:08,156 - InternetBanking -INFO - password provided
+2020-11-09 12:01:09,511 - InternetBanking -INFO - user name provided
+2020-11-09 12:01:09,576 - InternetBanking -INFO - password provided
+2020-11-09 12:01:10,892 - InternetBanking -INFO - user name provided
+2020-11-09 12:01:10,962 - InternetBanking -INFO - password provided
+2020-11-09 12:01:14,320 - InternetBanking -INFO - addCustomerTest_001
+2020-11-09 12:01:14,326 - InternetBanking -INFO - URL is opened
+2020-11-09 12:01:15,040 - InternetBanking -INFO - Enter Username
+2020-11-09 12:01:15,172 - InternetBanking -INFO - Enter Password
+2020-11-09 12:01:15,907 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 12:01:16,372 - InternetBanking -INFO - Add Customer Details
+2020-11-09 12:01:17,691 - InternetBanking -INFO - Click Submit Button
+2020-11-09 12:01:18,482 - InternetBanking -INFO - Validating Page
+2020-11-09 12:01:18,509 - InternetBanking -INFO - Add New Customer Test Case Passed
+2020-11-09 14:31:24,516 - InternetBanking -INFO - EditCustomerDetail_004
+2020-11-09 14:31:24,568 - InternetBanking -INFO - URL is opened
+2020-11-09 14:31:25,350 - InternetBanking -INFO - Enter Username
+2020-11-09 14:31:25,427 - InternetBanking -INFO - Enter Password
+2020-11-09 14:31:26,404 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 14:31:26,405 - InternetBanking -INFO - Select Edit Customer details
+2020-11-09 14:31:28,189 - InternetBanking -INFO - Editing Customer details
+2020-11-09 14:36:40,125 - InternetBanking -INFO - EditCustomerDetail_004
+2020-11-09 14:36:40,131 - InternetBanking -INFO - URL is opened
+2020-11-09 14:36:41,241 - InternetBanking -INFO - Enter Username
+2020-11-09 14:36:41,464 - InternetBanking -INFO - Enter Password
+2020-11-09 14:36:42,362 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 14:36:42,363 - InternetBanking -INFO - Select Edit Customer details
+2020-11-09 14:36:44,854 - InternetBanking -INFO - Editing Customer details
+2020-11-09 14:36:47,605 - InternetBanking -INFO - Clicking Submit Button
+2020-11-09 14:36:48,548 - InternetBanking -INFO - Verifying Edit
+2020-11-09 14:36:48,588 - InternetBanking -INFO - Edit Customer Test Case Passed
+2020-11-09 16:03:59,478 - InternetBanking -INFO - addCustomerTest_003
+2020-11-09 16:03:59,500 - InternetBanking -INFO - URL is opened
+2020-11-09 16:04:00,248 - InternetBanking -INFO - Enter Username
+2020-11-09 16:04:00,350 - InternetBanking -INFO - Enter Password
+2020-11-09 16:04:01,243 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 16:04:01,243 - InternetBanking -INFO - Enter Customer ID
+2020-11-09 16:13:46,957 - InternetBanking -INFO - addCustomerTest_003
+2020-11-09 16:13:46,961 - InternetBanking -INFO - URL is opened
+2020-11-09 16:13:47,421 - InternetBanking -INFO - Enter Username
+2020-11-09 16:13:47,567 - InternetBanking -INFO - Enter Password
+2020-11-09 16:13:48,248 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 16:13:48,249 - InternetBanking -INFO - Enter Customer ID
+2020-11-09 16:15:23,222 - InternetBanking -INFO - addCustomerTest_003
+2020-11-09 16:15:23,229 - InternetBanking -INFO - URL is opened
+2020-11-09 16:15:24,261 - InternetBanking -INFO - Enter Username
+2020-11-09 16:15:24,378 - InternetBanking -INFO - Enter Password
+2020-11-09 16:15:25,282 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 16:15:25,283 - InternetBanking -INFO - Enter Customer ID
+2020-11-09 16:15:27,091 - InternetBanking -INFO - Confirm delete
+2020-11-09 16:16:55,729 - InternetBanking -INFO - addCustomerTest_003
+2020-11-09 16:16:55,735 - InternetBanking -INFO - URL is opened
+2020-11-09 16:16:56,732 - InternetBanking -INFO - Enter Username
+2020-11-09 16:16:56,860 - InternetBanking -INFO - Enter Password
+2020-11-09 16:16:57,694 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 16:16:57,695 - InternetBanking -INFO - Enter Customer ID
+2020-11-09 16:16:59,172 - InternetBanking -INFO - Confirm delete
+2020-11-09 16:17:02,190 - InternetBanking -INFO - Delete Customer Test Case Failed
+2020-11-09 16:20:16,007 - InternetBanking -INFO - addCustomerTest_003
+2020-11-09 16:20:16,012 - InternetBanking -INFO - URL is opened
+2020-11-09 16:20:16,766 - InternetBanking -INFO - Enter Username
+2020-11-09 16:20:16,888 - InternetBanking -INFO - Enter Password
+2020-11-09 16:20:17,736 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 16:20:17,737 - InternetBanking -INFO - Enter Customer ID
+2020-11-09 16:20:19,283 - InternetBanking -INFO - Confirm delete
+2020-11-09 16:20:22,292 - InternetBanking -INFO - Delete Customer Test Case Failed
+2020-11-09 16:22:53,235 - InternetBanking -INFO - addCustomerTest_003
+2020-11-09 16:22:53,240 - InternetBanking -INFO - URL is opened
+2020-11-09 16:22:53,750 - InternetBanking -INFO - Enter Username
+2020-11-09 16:22:53,862 - InternetBanking -INFO - Enter Password
+2020-11-09 16:22:54,211 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 16:22:54,212 - InternetBanking -INFO - Enter Customer ID
+2020-11-09 16:23:59,868 - InternetBanking -INFO - addCustomerTest_003
+2020-11-09 16:23:59,873 - InternetBanking -INFO - URL is opened
+2020-11-09 16:24:00,596 - InternetBanking -INFO - Enter Username
+2020-11-09 16:24:00,692 - InternetBanking -INFO - Enter Password
+2020-11-09 16:24:01,366 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 16:24:01,367 - InternetBanking -INFO - Enter Customer ID
+2020-11-09 16:24:02,518 - InternetBanking -INFO - Confirm delete
+2020-11-09 16:27:43,741 - InternetBanking -INFO - addCustomerTest_003
+2020-11-09 16:27:43,745 - InternetBanking -INFO - URL is opened
+2020-11-09 16:27:44,495 - InternetBanking -INFO - Enter Username
+2020-11-09 16:27:44,687 - InternetBanking -INFO - Enter Password
+2020-11-09 16:27:45,451 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 16:27:45,451 - InternetBanking -INFO - Enter Customer ID
+2020-11-09 16:27:46,962 - InternetBanking -INFO - Confirm delete
+2020-11-09 16:33:32,016 - InternetBanking -INFO - addCustomerTest_003
+2020-11-09 16:33:32,021 - InternetBanking -INFO - URL is opened
+2020-11-09 16:33:32,770 - InternetBanking -INFO - Enter Username
+2020-11-09 16:33:32,896 - InternetBanking -INFO - Enter Password
+2020-11-09 16:33:33,579 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 16:33:33,579 - InternetBanking -INFO - Enter Customer ID
+2020-11-09 16:33:34,871 - InternetBanking -INFO - Confirm delete
+2020-11-09 21:37:20,351 - InternetBanking -INFO - LoginTest_001
+2020-11-09 21:37:20,374 - InternetBanking -INFO - URL is opened
+2020-11-09 21:37:21,163 - InternetBanking -INFO - Enter Username
+2020-11-09 21:37:21,286 - InternetBanking -INFO - Enter Password
+2020-11-09 21:37:22,036 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 21:37:22,048 - InternetBanking -INFO - Login Test Passed
+2020-11-09 21:37:24,545 - InternetBanking -INFO - addCustomerTest_003
+2020-11-09 21:37:24,545 - InternetBanking -INFO - URL is opened
+2020-11-09 21:37:24,754 - InternetBanking -INFO - Enter Username
+2020-11-09 21:37:25,547 - InternetBanking -INFO - Enter Password
+2020-11-09 21:37:26,295 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 21:37:27,082 - InternetBanking -INFO - Add Customer Details
+2020-11-09 21:37:28,508 - InternetBanking -INFO - Click Submit Button
+2020-11-09 21:37:29,238 - InternetBanking -INFO - Validating Page
+2020-11-09 21:37:29,268 - InternetBanking -INFO - Add New Customer Test Case Passed
+2020-11-09 21:58:20,731 - InternetBanking -INFO - LoginTest_001
+2020-11-09 21:58:20,737 - InternetBanking -INFO - URL is opened
+2020-11-09 21:58:21,568 - InternetBanking -INFO - Enter Username
+2020-11-09 21:58:21,661 - InternetBanking -INFO - Enter Password
+2020-11-09 21:58:22,390 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 21:58:22,405 - InternetBanking -INFO - Login Test Passed
+2020-11-09 21:58:25,107 - InternetBanking -INFO - addCustomerTest_003
+2020-11-09 21:58:25,107 - InternetBanking -INFO - URL is opened
+2020-11-09 21:58:25,899 - InternetBanking -INFO - Enter Username
+2020-11-09 21:58:26,034 - InternetBanking -INFO - Enter Password
+2020-11-09 21:58:26,622 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 21:58:27,046 - InternetBanking -INFO - Add Customer Details
+2020-11-09 21:58:28,956 - InternetBanking -INFO - Click Submit Button
+2020-11-09 21:58:29,795 - InternetBanking -INFO - Validating Page
+2020-11-09 21:58:29,831 - InternetBanking -INFO - Add New Customer Test Case Passed
+2020-11-09 21:59:33,600 - InternetBanking -INFO - LoginTest_001
+2020-11-09 21:59:33,603 - InternetBanking -INFO - URL is opened
+2020-11-09 21:59:34,116 - InternetBanking -INFO - Enter Username
+2020-11-09 21:59:34,198 - InternetBanking -INFO - Enter Password
+2020-11-09 21:59:34,499 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 21:59:39,956 - InternetBanking -INFO - addCustomerTest_003
+2020-11-09 21:59:39,957 - InternetBanking -INFO - URL is opened
+2020-11-09 21:59:40,223 - InternetBanking -INFO - Enter Username
+2020-11-09 21:59:40,898 - InternetBanking -INFO - Enter Password
+2020-11-09 21:59:41,684 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 21:59:42,402 - InternetBanking -INFO - Add Customer Details
+2020-11-09 21:59:43,897 - InternetBanking -INFO - Click Submit Button
+2020-11-09 21:59:44,644 - InternetBanking -INFO - Validating Page
+2020-11-09 21:59:44,655 - InternetBanking -INFO - Add New Customer Test Case Failed
+2020-11-09 22:01:42,155 - InternetBanking -INFO - LoginTest_001
+2020-11-09 22:01:42,163 - InternetBanking -INFO - URL is opened
+2020-11-09 22:01:42,918 - InternetBanking -INFO - Enter Username
+2020-11-09 22:01:43,014 - InternetBanking -INFO - Enter Password
+2020-11-09 22:01:43,587 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 22:01:43,597 - InternetBanking -INFO - Login Test Passed
+2020-11-09 22:01:46,214 - InternetBanking -INFO - addCustomerTest_003
+2020-11-09 22:01:46,215 - InternetBanking -INFO - URL is opened
+2020-11-09 22:01:47,006 - InternetBanking -INFO - Enter Username
+2020-11-09 22:01:47,163 - InternetBanking -INFO - Enter Password
+2020-11-09 22:01:48,253 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 22:01:48,612 - InternetBanking -INFO - Add Customer Details
+2020-11-09 22:01:49,993 - InternetBanking -INFO - Click Submit Button
+2020-11-09 22:01:50,576 - InternetBanking -INFO - Validating Page
+2020-11-09 22:01:50,588 - InternetBanking -INFO - Add New Customer Test Case Failed
+2020-11-09 22:04:55,720 - InternetBanking -INFO - LoginTest_001
+2020-11-09 22:04:55,727 - InternetBanking -INFO - URL is opened
+2020-11-09 22:04:56,543 - InternetBanking -INFO - Enter Username
+2020-11-09 22:04:56,665 - InternetBanking -INFO - Enter Password
+2020-11-09 22:04:57,687 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 22:04:57,696 - InternetBanking -INFO - Login Test Passed
+2020-11-09 22:05:00,209 - InternetBanking -INFO - addCustomerTest_003
+2020-11-09 22:05:00,210 - InternetBanking -INFO - URL is opened
+2020-11-09 22:05:00,950 - InternetBanking -INFO - Enter Username
+2020-11-09 22:05:01,068 - InternetBanking -INFO - Enter Password
+2020-11-09 22:05:01,815 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 22:05:02,296 - InternetBanking -INFO - Add Customer Details
+2020-11-09 22:05:03,713 - InternetBanking -INFO - Click Submit Button
+2020-11-09 22:05:04,438 - InternetBanking -INFO - Validating Page
+2020-11-09 22:05:04,471 - InternetBanking -INFO - Add New Customer Test Case Passed
+2020-11-09 22:06:55,384 - InternetBanking -INFO - LoginTest_001
+2020-11-09 22:06:55,389 - InternetBanking -INFO - URL is opened
+2020-11-09 22:06:56,167 - InternetBanking -INFO - Enter Username
+2020-11-09 22:06:56,251 - InternetBanking -INFO - Enter Password
+2020-11-09 22:06:56,948 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 22:06:56,955 - InternetBanking -INFO - Login Test Passed
+2020-11-09 22:06:59,525 - InternetBanking -INFO - addCustomerTest_003
+2020-11-09 22:06:59,526 - InternetBanking -INFO - URL is opened
+2020-11-09 22:06:59,756 - InternetBanking -INFO - Enter Username
+2020-11-09 22:07:00,398 - InternetBanking -INFO - Enter Password
+2020-11-09 22:07:00,998 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 22:07:01,424 - InternetBanking -INFO - Add Customer Details
+2020-11-09 22:07:02,885 - InternetBanking -INFO - Click Submit Button
+2020-11-09 22:07:03,521 - InternetBanking -INFO - Validating Page
+2020-11-09 22:07:03,535 - InternetBanking -INFO - Add New Customer Test Case Failed
+2020-11-09 22:10:00,778 - InternetBanking -INFO - LoginTest_001
+2020-11-09 22:10:00,783 - InternetBanking -INFO - URL is opened
+2020-11-09 22:10:01,617 - InternetBanking -INFO - Enter Username
+2020-11-09 22:10:01,737 - InternetBanking -INFO - Enter Password
+2020-11-09 22:10:02,585 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 22:10:02,595 - InternetBanking -INFO - Login Test Passed
+2020-11-09 22:10:05,067 - InternetBanking -INFO - addCustomerTest_003
+2020-11-09 22:10:05,067 - InternetBanking -INFO - URL is opened
+2020-11-09 22:10:05,288 - InternetBanking -INFO - Enter Username
+2020-11-09 22:10:06,005 - InternetBanking -INFO - Enter Password
+2020-11-09 22:10:06,773 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 22:10:07,101 - InternetBanking -INFO - Add Customer Details
+2020-11-09 22:10:08,459 - InternetBanking -INFO - Click Submit Button
+2020-11-09 22:10:09,117 - InternetBanking -INFO - Validating Page
+2020-11-09 22:20:19,667 - InternetBanking -INFO - LoginTest_001
+2020-11-09 22:20:19,673 - InternetBanking -INFO - URL is opened
+2020-11-09 22:20:20,346 - InternetBanking -INFO - Enter Username
+2020-11-09 22:20:20,428 - InternetBanking -INFO - Enter Password
+2020-11-09 22:20:20,780 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 22:20:21,074 - InternetBanking -INFO - Login Test Passed
+2020-11-09 22:20:23,518 - InternetBanking -INFO - addCustomerTest_003
+2020-11-09 22:20:23,519 - InternetBanking -INFO - URL is opened
+2020-11-09 22:20:24,429 - InternetBanking -INFO - Enter Username
+2020-11-09 22:20:24,518 - InternetBanking -INFO - Enter Password
+2020-11-09 22:20:25,457 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 22:20:26,335 - InternetBanking -INFO - Add Customer Details
+2020-11-09 22:20:27,697 - InternetBanking -INFO - Click Submit Button
+2020-11-09 22:20:28,448 - InternetBanking -INFO - Validating Page
+2020-11-09 22:20:28,478 - InternetBanking -INFO - Add New Customer Test Case Passed
+2020-11-09 22:20:56,459 - InternetBanking -INFO - LoginTest_001
+2020-11-09 22:20:56,463 - InternetBanking -INFO - URL is opened
+2020-11-09 22:20:56,959 - InternetBanking -INFO - Enter Username
+2020-11-09 22:20:57,120 - InternetBanking -INFO - Enter Password
+2020-11-09 22:20:57,841 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 22:20:57,857 - InternetBanking -INFO - Login Test Passed
+2020-11-09 22:21:00,380 - InternetBanking -INFO - addCustomerTest_003
+2020-11-09 22:21:00,382 - InternetBanking -INFO - URL is opened
+2020-11-09 22:21:00,634 - InternetBanking -INFO - Enter Username
+2020-11-09 22:21:01,366 - InternetBanking -INFO - Enter Password
+2020-11-09 22:21:02,104 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 22:21:02,852 - InternetBanking -INFO - Add Customer Details
+2020-11-09 22:21:04,307 - InternetBanking -INFO - Click Submit Button
+2020-11-09 22:21:04,981 - InternetBanking -INFO - Validating Page
+2020-11-09 22:21:05,016 - InternetBanking -INFO - Add New Customer Test Case Passed
+2020-11-09 22:23:28,560 - InternetBanking -INFO - LoginTest_001
+2020-11-09 22:23:28,566 - InternetBanking -INFO - URL is opened
+2020-11-09 22:23:29,378 - InternetBanking -INFO - Enter Username
+2020-11-09 22:23:29,499 - InternetBanking -INFO - Enter Password
+2020-11-09 22:23:30,216 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 22:23:30,229 - InternetBanking -INFO - Login Test Passed
+2020-11-09 22:23:32,917 - InternetBanking -INFO - addCustomerTest_003
+2020-11-09 22:23:32,918 - InternetBanking -INFO - URL is opened
+2020-11-09 22:23:33,165 - InternetBanking -INFO - Enter Username
+2020-11-09 22:23:33,910 - InternetBanking -INFO - Enter Password
+2020-11-09 22:23:34,731 - InternetBanking -INFO - Clicked Login Button
+2020-11-09 22:23:35,795 - InternetBanking -INFO - Add Customer Details
+2020-11-09 22:23:37,649 - InternetBanking -INFO - Click Submit Button
+2020-11-09 22:23:38,408 - InternetBanking -INFO - Validating Page
+2020-11-09 22:23:38,451 - InternetBanking -INFO - Add New Customer Test Case Passed
+2020-11-10 15:08:21,131 - InternetBanking -INFO - LoginTest_001
+2020-11-10 15:08:21,159 - InternetBanking -INFO - URL is opened
+2020-11-10 15:08:22,263 - InternetBanking -INFO - Enter Username
+2020-11-10 15:08:22,373 - InternetBanking -INFO - Enter Password
+2020-11-10 15:08:23,250 - InternetBanking -INFO - Clicked Login Button
+2020-11-10 15:08:23,265 - InternetBanking -INFO - Login Test Passed
+2020-11-10 15:08:26,384 - InternetBanking -INFO - addCustomerTest_003
+2020-11-10 15:08:26,386 - InternetBanking -INFO - URL is opened
+2020-11-10 15:08:27,260 - InternetBanking -INFO - Enter Username
+2020-11-10 15:08:27,441 - InternetBanking -INFO - Enter Password
+2020-11-10 15:08:28,327 - InternetBanking -INFO - Clicked Login Button
+2020-11-10 15:08:29,175 - InternetBanking -INFO - Add Customer Details
+2020-11-10 15:08:30,762 - InternetBanking -INFO - Click Submit Button
+2020-11-10 15:08:31,062 - InternetBanking -INFO - Validating Page
+2020-11-10 15:11:17,291 - InternetBanking -INFO - LoginTest_001
+2020-11-10 15:11:17,295 - InternetBanking -INFO - URL is opened
+2020-11-10 15:11:18,133 - InternetBanking -INFO - Enter Username
+2020-11-10 15:11:18,223 - InternetBanking -INFO - Enter Password
+2020-11-10 15:11:19,067 - InternetBanking -INFO - Clicked Login Button
+2020-11-10 15:11:19,082 - InternetBanking -INFO - Login Test Passed
+2020-11-10 15:11:21,494 - InternetBanking -INFO - addCustomerTest_003
+2020-11-10 15:11:21,494 - InternetBanking -INFO - URL is opened
+2020-11-10 15:11:21,649 - InternetBanking -INFO - Enter Username
+2020-11-10 15:11:22,384 - InternetBanking -INFO - Enter Password
+2020-11-10 15:11:23,606 - InternetBanking -INFO - Clicked Login Button
+2020-11-10 15:11:24,077 - InternetBanking -INFO - Add Customer Details
+2020-11-10 15:11:25,420 - InternetBanking -INFO - Click Submit Button
+2020-11-10 15:11:26,094 - InternetBanking -INFO - Validating Page
+2020-11-10 15:11:26,113 - InternetBanking -INFO - Add New Customer Test Case Passed
