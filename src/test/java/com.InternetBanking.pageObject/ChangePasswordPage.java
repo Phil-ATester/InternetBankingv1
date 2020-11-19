@@ -1,5 +1,6 @@
 package com.InternetBanking.pageObject;
 
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -21,7 +22,7 @@ public class ChangePasswordPage {
     @FindBy(css="input[name='confirmpassword']")
     WebElement txtConfirmPassword;
 
-    @FindBy(css="input[name='Submit']")
+    @FindBy(css="input[name='sub']")
     WebElement submitButton;
 
 
@@ -31,7 +32,8 @@ public class ChangePasswordPage {
     }
 
     public void clickChangePassword(){
-        linkChangePassword.click();
+        JavascriptExecutor js = (JavascriptExecutor)driver;
+        js.executeScript("arguments[0].click();", linkChangePassword);
     }
 
     public void setTxtOldPassword(String oldPassword){
