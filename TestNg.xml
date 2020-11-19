@@ -21,8 +21,8 @@
             <!-- <class name="com.InternetBanking.testCases.TC_DepositTest_009"></class>
             <class name="com.InternetBanking.testCases.TC_WithdrawTest_010"></class>
             <class name="com.InternetBanking.testCases.TC_TransferFundTest_011"></class> -->
-            <class name="com.InternetBanking.testCases.TC_ChangePasswordTest_012"></class>
-            
+            <!-- <class name="com.InternetBanking.testCases.TC_ChangePasswordTest_012"></class>  -->
+            <class name="com.InternetBanking.testCases.TC_BalanceEnquiryTest_013"></class>
         </classes>
     </test>
 </suite>
