@@ -10,11 +10,17 @@
     <test name="BankingApp Test">
         <parameter name="browser" value="Chrome" />
         <classes>
-            <class name="com.InternetBanking.testCases.TC_LoginTest_001"></class>
-            <!--<class name="com.InternetBanking.testCases.TC_LoginTestDDT_002"></class> -->
-            <class name="com.InternetBanking.testCases.TC_AddCustomer_003"></class>
-            <!-- <class name="com.InternetBanking.testCases.TC_EditCustomerDetailsTest_004"></class> -->
-            <!--<class name="com.InternetBanking.testCases.TC_DeleteCustomerTest_005"></class>-->
+            <!--<class name="com.InternetBanking.testCases.TC_LoginTest_001"></class> -->
+               <!--<class name="com.InternetBanking.testCases.TC_LoginTestDDT_002"></class> -->
+            <!-- <class name="com.InternetBanking.testCases.TC_AddCustomer_003"></class> -->
+               <!-- <class name="com.InternetBanking.testCases.TC_EditCustomerDetailsTest_004"></class> -->
+               <!--<class name="com.InternetBanking.testCases.TC_DeleteCustomerTest_005"></class>-->
+             <!-- <class name="com.InternetBanking.testCases.TC_AddAccount_006"></class>
+             <class name="com.InternetBanking.testCases.TC_EditAccount_007"></class>
+             <class name="com.InternetBanking.testCases.TC_DeleteAccount_008"></class> -->
+            <class name="com.InternetBanking.testCases.TC_DepositTest_009"></class>
+            <class name="com.InternetBanking.testCases.TC_WithdrawTest_010"></class>
+            <class name="com.InternetBanking.testCases.TC_TransferFundTest_011"></class>
         </classes>
     </test>
 </suite>

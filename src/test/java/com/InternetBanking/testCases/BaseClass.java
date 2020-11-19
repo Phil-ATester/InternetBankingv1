@@ -79,11 +79,15 @@ public class BaseClass {
 
     public void captureScreen(WebDriver driver, String testName) throws IOException {
         //System.out.println("in Screenshot method");
-        TakesScreenshot ts = ((TakesScreenshot) driver);
-        File source = ts.getScreenshotAs(OutputType.FILE);
-        File target = new File(System.getProperty("user.dir") + "/ScreenShots/" + testName + ".png");
-        FileUtils.copyFile(source, target);
-        System.out.println("Screenshot Taken");
+        //TakesScreenshot ts = ((TakesScreenshot) driver);
+        //File source = ts.getScreenshotAs(OutputType.FILE);
+        ///File target = new File(System.getProperty("user.dir") + "/ScreenShots/" + testName + ".png");
+        //FileUtils.copyFile(source, target);
+        //System.out.println("Screenshot Taken");
+
+        File scrFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+        FileUtils.copyFile(scrFile, new File("/Users/pse/Desktop/Selenium/InternetBanking/Screenshots"));
+
     }
 
     public boolean isAlertPresent(){
