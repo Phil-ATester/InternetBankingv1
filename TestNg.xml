@@ -22,7 +22,8 @@
             <class name="com.InternetBanking.testCases.TC_WithdrawTest_010"></class>
             <class name="com.InternetBanking.testCases.TC_TransferFundTest_011"></class> -->
             <!-- <class name="com.InternetBanking.testCases.TC_ChangePasswordTest_012"></class>  -->
-            <class name="com.InternetBanking.testCases.TC_BalanceEnquiryTest_013"></class>
+            <!-- <class name="com.InternetBanking.testCases.TC_BalanceEnquiryTest_013"></class> -->
+            <class name="com.InternetBanking.testCases.TC_StatementEnquiryTest_014"></class>
         </classes>
     </test>
 </suite>
