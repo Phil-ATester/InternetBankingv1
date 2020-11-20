@@ -24,7 +24,8 @@
             <!-- <class name="com.InternetBanking.testCases.TC_ChangePasswordTest_012"></class>  -->
             <!-- <class name="com.InternetBanking.testCases.TC_BalanceEnquiryTest_013"></class> -->
             <!-- <class name="com.InternetBanking.testCases.TC_StatementEnquiryTest_014"></class> -->
-            <class name="com.InternetBanking.testCases.TC_LogoutTest_016"></class>
+            <!-- <class name="com.InternetBanking.testCases.TC_LogoutTest_016"></class> -->
+            <class name="com.InternetBanking.testCases.TC_CustomStatementTest_015"></class>
         </classes>
     </test>
 </suite>

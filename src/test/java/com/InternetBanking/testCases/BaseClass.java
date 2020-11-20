@@ -1,5 +1,6 @@
 package com.InternetBanking.testCases;
 
+import com.InternetBanking.pageObject.LoginPage;
 import com.InternetBanking.utilities.ReadConfig;
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.RandomStringUtils;
@@ -105,6 +106,13 @@ public class BaseClass {
 
     public String randomNumber(){
         return RandomStringUtils.randomNumeric(4);
+    }
+
+    public void login(){
+        LoginPage loginPage = new LoginPage(driver);
+        loginPage.setUserName(userName);
+        loginPage.setPassword(passWord);
+        loginPage.clickSubmitButton();
     }
 
 }
